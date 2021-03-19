@@ -1,0 +1,12 @@
+file: intro
+sections:
+- file: LICENSE
+- file: syllabus
+- file: welcome
+- file: 01Introduction/intro
+- file: 02Abstract/abstract
+- file: 03Example/demo
+- file: features/features
+  sections:
+  - file: features/markdown
+  - file: features/notebooks
